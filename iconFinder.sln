@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iconFinder", "iconFinder\iconFinder.csproj", "{6C06B205-701B-4ED2-B0DD-2C7F56C750CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C06B205-701B-4ED2-B0DD-2C7F56C750CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C06B205-701B-4ED2-B0DD-2C7F56C750CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C06B205-701B-4ED2-B0DD-2C7F56C750CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C06B205-701B-4ED2-B0DD-2C7F56C750CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {691C48C2-0522-4C59-88F8-7720C94D1221}
+	EndGlobalSection
+EndGlobal
