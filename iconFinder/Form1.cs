@@ -30,6 +30,7 @@ namespace iconFinder
             x = x.Replace('.'.ToString(), "")
                  .Replace(':'.ToString(), "")
                  .Replace('!'.ToString(), "")
+                 .Replace('ú'.ToString(), "u")
                  .Replace(' '.ToString(), "-");
             x = x.ToLower();
             return x;
