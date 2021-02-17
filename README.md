@@ -4,6 +4,6 @@ All icons are taken directly from Blizzard's website
 # Download  
 [Download here](https://github.com/NotThatDeadly/OverwatchIconFinder/releases/tag/v2.0)  
 # Known issues  
-- Images not displaying as PNGs  
+- Copied images not displaying as PNGs (saving them works just fine)  
 # Disclaimer  
 This project is not affiliated with Blizzard Entertainment, Inc.  
